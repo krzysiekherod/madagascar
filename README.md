@@ -4,7 +4,7 @@
 
 ### Day 1. Antananarivo
 1. Buy tickets From Antananarivo to Nosy Be (day 9)
-2. Call to Gîte (5 km od Namoly Valley, tel: 75 340 81, address: TRANOGASY, Maison d'hôtes, Andringitra Lot II D 68 Bis, Ambalakajaha 303, Ambalavao) [3]
+2. Call to Gîte (5 km from Namoly Valley, tel: 75 340 81, address: TRANOGASY, Maison d'hôtes, Andringitra Lot II D 68 Bis, Ambalakajaha 303, Ambalavao) [3]
   * book a night
   * get to know how to get there
 3. Find Taxi-brousse (bush taxi - cheapest transport option), or a private car with a driver (more expensive) [1] and go to Gîte
@@ -15,18 +15,18 @@
 * price of a private car
 
 #### Useful information
-* The biggest city next to the entrance to the park at Namaly Valley is Ambalavao (around 60 km, 3 h drive)
+* The biggest city next to the entrance to the park at Namoly Valley is Ambalavao (around 60 km, 3 h drive)
 
 ### Day 2. Namoly Valley: Prepare for Imarivolanitra Trail [3]
 1. Go to Namoly Park office
   * find a guide and check prices
-  * check routes back (to Namoly Park or Tsaranoro Valley)
+  * check routes back (to Namoly Valley or Tsaranoro Valley)
 2. Night at www.tranogasy.com (tel: 033 14 306 78) [3]
 
 ### Day 3. (early in the morning) Imarivolanitra Trail (Andringitra National Park) [3]
 1. we take guide at Namoly Park office, and go to Pic Boby (price: 30 EUR [5])
-2. tego samego dnia powinniśmy wrócić [4]
-3. nocleg w www.tranogasy.com
+2. we should get back the same day [4]
+3. Night at www.tranogasy.com
 
 #### Useful information
 * from Pic Boby we can see Tsaranoro Valley (alternative way back)

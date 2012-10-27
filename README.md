@@ -49,7 +49,8 @@
 ### Day 11 - 12. Drive through RN5 (with 4WD)
 [TBA]
 
-### Day 13. Buffer
+### Day 13. Aye-aye Island - night tour in a pirogue to see Aye-aye lemur [6]
+[TBA - night tour: 10 EUR]
 
 ### Day 14. Visiting Antananarivo
 [TBA]
@@ -63,6 +64,7 @@
 3. Lonely Planet str. 71
 4. [Madagaskar tour](http://www.madagascar-tour-guide.com/madagascar_south_rn7_peak_boby_tours_guide.html)
 5. [Lonely Planet Forum](http://www.lonelyplanet.com/thorntree/thread.jspa?threadID=2138758)
+6. Lonely Planet, str. 184
 
 ## More information:
 1. http://travel.state.gov/travel/cis_pa_tw/cis/cis_957.html (health, risks, ...)

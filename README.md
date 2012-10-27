@@ -31,8 +31,8 @@
 #### Useful information
 * from Pic Boby we can see Tsaranoro Valley (alternative way back)
 
-### Day 4. Slow rafting (Mangoky River)
-[TBA - take 8 to 18 days so we should pick something else]
+### Day 4. Slow rafting (Tsiribihina River)
+[TBA - take 2 to 3 days, 16-300 EUR]
 
 ### Day 5. Via Ferrata - Parc National des Tsingy de Bamaraha
 [TBA]

@@ -2,13 +2,12 @@
 
 ## Basic plan
 
-### Day 1. Antananarivo
+### 1 day. Antananarivo
 1. Buy tickets From Antananarivo to Nosy Be (day 9)
 2. Call to Gîte (5 km from Namoly Valley, tel: 75 340 81, address: TRANOGASY, Maison d'hôtes, Andringitra Lot II D 68 Bis, Ambalakajaha 303, Ambalavao) [3]
   * book a night
   * get to know how to get there
 3. Find Taxi-brousse (bush taxi - cheapest transport option), or a private car with a driver (more expensive) [1] and go to Gîte
-4. Night at Gîte
 
 #### To check
 * price of a taxi
@@ -17,42 +16,55 @@
 #### Useful information
 * The biggest city next to the entrance to the park at Namoly Valley is Ambalavao (around 60 km, 3 h drive)
 
-### Day 2. Namoly Valley: Prepare for Imarivolanitra Trail [3]
+### 1 day. Travel from Antananarivo to Namoly Valley
+2. Night at Gîte
+
+### 2 days. Imarivolanitra Trail (Andringitra National Park) [3]
 1. Go to Namoly Park office
   * find a guide and check prices
   * check routes back (to Namoly Valley or Tsaranoro Valley)
 2. Night at www.tranogasy.com (tel: 033 14 306 78) [3]
-
-### Day 3. (early in the morning) Imarivolanitra Trail (Andringitra National Park) [3]
-1. we take guide at Namoly Park office, and go to Pic Boby (price: 30 EUR [5])
-2. we should get back the same day [4]
-3. Night at www.tranogasy.com
+3. Early in the morning we take guide at Namoly Park office, and go to Pic Boby (price: 30 EUR [5])
+4. We should get back the same day [4]
+5. Night at www.tranogasy.com
 
 #### Useful information
-* from Pic Boby we can see Tsaranoro Valley (alternative way back)
+* from Pic Boby (Imarivolanitra) we can see Tsaranoro Valley (alternative way back)
 
-### Day 4. Slow rafting (Tsiribihina River)
-[TBA - take 2 to 3 days, 16-300 EUR]
+### ? days. Travel from Namoly Valley to Miandrivazo [7]
 
-### Day 5. Via Ferrata - Parc National des Tsingy de Bamaraha
+### 3 days. Slow rafting (Tsiribihina River) [7]
+[TBA - take 2 to 3 days, 160-300 EUR]
+
+### 1 day. Travel from Belo-sur-Tsiribihina to Tsyngy
+
+### 1 day. Via Ferrata - Parc National des Tsingy de Bamaraha
 [TBA]
 
-### Day 6. Getting back to Antananarivo
+### ? days. Travel from Tsyngy to Antananarivo
 
-### Day 7. Buffer
+### 1 day. Buffer
 
-### Day 8. Flight to Nosy Be
+### 1 day. Travel from Antananarivo to Nosy Be
+1. Flight 
 
-### Day 9 - 10. Nosy Be
+### 2 days. Nosy Be
 [TBA]
 
-### Day 11 - 12. Drive through RN5 (with 4WD)
+### ? days. Travel from Nosy Be to RN5
+
+### ? days. Travel from Maroantsetra to Mananara
+1. 4WD through RN5
 [TBA]
 
-### Day 13. Aye-aye Island - night tour in a pirogue to see Aye-aye lemur [6]
+### 1 day. Aye-aye Island - night tour in a pirogue to see Aye-aye lemur [6]
 [TBA - night tour: 10 EUR]
 
-### Day 14. Visiting Antananarivo
+### 1 day. Travel from Mananara to Antananarivo
+1. Taxi-brousse
+[TBA]
+
+### 1 day. Visiting Antananarivo
 [TBA]
 
 ## Resources
@@ -65,6 +77,7 @@
 4. [Madagaskar tour](http://www.madagascar-tour-guide.com/madagascar_south_rn7_peak_boby_tours_guide.html)
 5. [Lonely Planet Forum](http://www.lonelyplanet.com/thorntree/thread.jspa?threadID=2138758)
 6. Lonely Planet, str. 184
+7. Lonely Planet, str. 110
 
 ## More information:
 1. http://travel.state.gov/travel/cis_pa_tw/cis/cis_957.html (health, risks, ...)

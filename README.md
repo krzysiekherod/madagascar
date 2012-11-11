@@ -36,6 +36,11 @@
 ### 3 days. Slow rafting (Tsiribihina River) [7]
 [TBA - take 2 to 3 days, 160-300 EUR]
 
+### 1 day. Avenue of the Baobabs (Belo sur Tsiribihina - Morondava)
+1. Rent a car
+2. Take direction of Morondava to find baobabs
+3. Go back to Belo sur Tsiribihina
+
 ### 1 day. Travel from Belo-sur-Tsiribihina to Tsyngy
 
 ### 1 day. Via Ferrata - Parc National des Tsingy de Bamaraha
@@ -46,7 +51,7 @@
 ### 1 day. Buffer
 
 ### 1 day. Travel from Antananarivo to Nosy Be
-1. Flight 
+1. Flight
 
 ### 2 days. Nosy Be
 [TBA]

@@ -43,9 +43,12 @@
 ### 1 day. Avenue of the Baobabs (Belo sur Tsiribihina - Morondava)
 1. Rent a car
 2. Take direction of Morondava to find baobabs
-3. Go back to Belo sur Tsiribihina
+3. Go back to Belo sur Tsiribihina or stay at Morondava
+  (Lonely Planet mentions only travel to Tsyngy from Morondava) [8]
 
 ### 1 day. Travel from Belo-sur-Tsiribihina to Tsyngy
+1. 4WD to Bekopaka at Manambolo River (does not exist on Google Maps)
+   Warning: traveling to Bekopaka (even with 4WD) might be impossible after October [8]
 
 ### 1 day. Via Ferrata - Parc National des Tsingy de Bamaraha
 [TBA]
@@ -87,6 +90,7 @@
 5. [Lonely Planet Forum](http://www.lonelyplanet.com/thorntree/thread.jspa?threadID=2138758)
 6. Lonely Planet, str. 184
 7. Lonely Planet, str. 110
+8. Lonely Planet, str. 112
 
 ## More information:
 1. http://travel.state.gov/travel/cis_pa_tw/cis/cis_957.html (health, risks, ...)

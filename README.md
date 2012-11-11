@@ -31,7 +31,11 @@
 #### Useful information
 * from Pic Boby (Imarivolanitra) we can see Tsaranoro Valley (alternative way back)
 
-### ? days. Travel from Namoly Valley to Miandrivazo [7]
+### 1 day. Travel from Namoly Valley to Miandrivazo [7]
+1. Get to Ambalavao (3 h)
+2. Get to Miandrivazo (directly would be 6 h)
+  * north to Fianarantsoa, Ambositra, Antsirabe (road 7), and then west to
+    Miandrivazo (road 34)
 
 ### 3 days. Slow rafting (Tsiribihina River) [7]
 [TBA - take 2 to 3 days, 160-300 EUR]

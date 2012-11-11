@@ -3,7 +3,7 @@
 ## Basic plan
 
 ### 1 day. Antananarivo
-1. Buy tickets From Antananarivo to Nosy Be (day 9)
+1. Buy tickets From Antananarivo to Nosy Be (around 184 EUR) [9]
 2. Call to Gîte (5 km from Namoly Valley, tel: 75 340 81, address: TRANOGASY, Maison d'hôtes, Andringitra Lot II D 68 Bis, Ambalakajaha 303, Ambalavao) [3]
   * book a night
   * get to know how to get there
@@ -93,6 +93,7 @@
 6. Lonely Planet, str. 184
 7. Lonely Planet, str. 110
 8. Lonely Planet, str. 112
+9. Lonely Planet, str. 257
 
 ## More information:
 1. http://travel.state.gov/travel/cis_pa_tw/cis/cis_957.html (health, risks, ...)

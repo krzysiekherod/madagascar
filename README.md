@@ -53,7 +53,9 @@
 ### 1 day. Via Ferrata - Parc National des Tsingy de Bamaraha
 [TBA]
 
-### ? days. Travel from Tsyngy to Antananarivo
+### 2 days. Travel from Tsyngy to Antananarivo
+1. 4WD from Bekopaka to Miandrivazo (around 100 km without roads)
+2. Miandriviazo to Antananarivo (directly would be 5 hours)
 
 ### 1 day. Buffer
 

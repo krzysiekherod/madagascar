@@ -35,25 +35,45 @@
 2. See the sapphire mining town - Ilakaka (p.77)
 3. Spend the night at Chez Alice (p.76)
 
-## Saturday, 1st - Tulear
+## Saturday, 1st - Fianarantsoa
 
-1. Get to Tulear (p.79)
-2. Spend the night in Tulear
+1. Get to Fianarantsoa (p.60)
+2. Spend the night in Fianarantsoa
 
-## Sunday, 2nd - Salary
+## Sunday, 2nd - Antsirabe
 
-1. Get to Ifaty / Mangily (p.84)
-2. Figure out a way to get to Salary (p.87)
+1. Get to Antsirabe (Ar 14.000, 6 hours, p.64)
+2. Spend the night in Antsirabe
 
-## Monday, 3rd - Andavadoaka
+## Monday, 3rd - Miandrivazo
 
-1. Pirogue ride from Salary to Andavadoaka (5-8 hours, Ar 60.000, p.88)
-2. Book the diving
-3. Spend the night at Andavadoaka
+1. Get to Miandrivazo (Ar 10.000, 6 hours, p.108)
+2. Spend the night in Miandrivazo
 
-## Tuesday - Wednesday, 4-5th - Andavadoaka
+## Plan A: 4-6th: Tsiribihina river boat trip (p.110)
 
-Mallorking!
+## (Plan B) Tuesday, 4th - Belo-sur-Mer
 
-## Thursday, 6th - 
+1. Get to Morondava (Ar 20.000, 6 hours, p.108)
+2. Get to Belo-sur-Mer (2,5h by motor boat, p.119, optimistic version)
+3. Spend the night in Belo-sur-Mer (p.117)
+
+## (Plan B) Wednesday-Thursday, 5-6th - Belo-sur-Mer
+
+Mallorking! Diving, snorkeling, sailing, beach chillaxing.
+
+## Friday, 7th - Morondava
+
+1. See the Allee des Baobabs (p.117)
+2. Get to Morondava
+3. Spend the night in Morondava (p.113)
+
+## Saturday, 8th - Antananarivo
+
+1. Get to Antananarivo (Ar 45.000, 15 hours, p.116)
+2. Get to the airport
+
+## Sunday, 9th
+
+1. Fly away!
 

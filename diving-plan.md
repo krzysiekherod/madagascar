@@ -13,7 +13,6 @@
 3. Spend the night in Ambalavao (p.67)
 
 ### Things around
-* In Antsirabe (on the way from Antananarivo to Fianarantsoa) we can get rickshaw (pousse-pousse) tour
 * Map of Fianarantsoa is on p. 60
 * In Ambalavao there's the biggest zebu market (p.21)
 * Maromby Trappist Monastery (p.64)
@@ -50,7 +49,12 @@
 ## Sunday, 2nd - Antsirabe
 
 1. Get to Antsirabe (Ar 14.000, 6 hours, p.64)
-2. Spend the night in Antsirabe
+2. Spend the night in Antsirabe (p.50)
+
+### Things around
+* Rickshaw (pousse-pousse) tour
+* Sabotsy Market
+* map is on p.52
 
 ## Monday, 3rd - Miandrivazo
 

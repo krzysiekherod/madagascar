@@ -8,7 +8,7 @@
 
 ## Monday, 26th - Ambalavao
 
-1. Travel Antananarivo -> Fianarantsoa (Ar 18.000, 8-9 hours, taxi-brousse, p.64)
+1. Travel Antananarivo -> Fianarantsoa (Ar 18.000-23.000, 8-9 hours, taxi-brousse, p.42, p.64)
 2. Travel Fianarantsoa -> Ambalavao (Ar 2.000, 2 hours, taxi-brousse, p.64)
 3. Spend the night in Ambalavao (p.67)
 
@@ -78,7 +78,7 @@ Mallorking! Diving, snorkeling, sailing, beach chillaxing.
 
 ## Saturday, 8th - Antananarivo
 
-1. Get to Antananarivo (Ar 45.000, 15 hours, p.116)
+1. Get to Antananarivo (Ar 45.000, 16 hours, p.42, p.116)
 2. Get to the airport
 
 ## Sunday, 9th

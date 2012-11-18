@@ -8,7 +8,7 @@
 
 ## Monday, 26th - Ambalavao
 
-1. Travel Antananarivo -> Fianarantsoa (Ar 18.000-23.000, 8-9 hours, taxi-brousse, p.42, p.64)
+1. Travel Antananarivo -> Fianarantsoa (Ar 18.000-23.000, 8-9 hours, taxi-brousse at Fasan’ny Karana, p.42, p.64)
 2. Travel Fianarantsoa -> Ambalavao (Ar 2.000, 2 hours, taxi-brousse, p.64)
 3. Spend the night in Ambalavao (p.67)
 

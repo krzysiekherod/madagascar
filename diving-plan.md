@@ -60,7 +60,7 @@
 ## Plan A: 4-6th: Tsiribihina river boat trip (p.110)
 
 ### Things around
-* We could maybe get from Belo sur Tsiribihina to Tsingy (for via ferrata) by 4WD (p.21)
+* We could get to Tsingy for via ferrata (if at all) by 4WD from Belo sur Tsiribihina (p.21) or from Morondava (p.113)
 
 ## (Plan B) Tuesday, 4th - Belo-sur-Mer
 

@@ -12,6 +12,11 @@
 2. Travel Fianarantsoa -> Ambalavao (Ar 2.000, 2 hours, taxi-brousse, p.64)
 3. Spend the night in Ambalavao (p.67)
 
+### Things around
+* In Antsirabe (on the way from Antananarivo to Fianarantsoa) we can get rickshaw (pousse-pousse) tour
+* From Fianarantsoa we can get by train to Manakara to stay on a beach or go down Canal des Pangalanes (p.21)
+* In Ambalavao there's the biggest zebu market (p.21)
+
 ## Tuesday, 27th - Pic Boby camp
 
 1. Start the Imarivolanitra Trail (p.71)

@@ -14,7 +14,6 @@
 
 ### Things around
 * In Antsirabe (on the way from Antananarivo to Fianarantsoa) we can get rickshaw (pousse-pousse) tour
-* From Fianarantsoa we can get by train to Manakara to stay on a beach or go down Canal des Pangalanes (p.21)
 * Map of Fianarantsoa is on p. 60
 * In Ambalavao there's the biggest zebu market (p.21)
 
